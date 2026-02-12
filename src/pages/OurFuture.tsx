@@ -6,18 +6,18 @@ const BACKGROUND_IMAGE_URL = "";
 const BANNER_IMAGE_URL = "";
 
 const TIMELINE = [
-  { emoji: "🌅", title: "Morning Chai Together", text: "Waking up slow, making chai, sitting by the window while the world wakes up with us." },
-  { emoji: "🍳", title: "Cooking Disasters", text: "Trying to cook breakfast together, burning toast, laughing about it, ordering in anyway." },
-  { emoji: "🎵", title: "Our Playlist Mornings", text: "Dancing in the kitchen to our favorite songs. Badly. Beautifully." },
-  { emoji: "💻", title: "Working Side by Side", text: "Both focused on our laptops, stealing glances, passing notes like we're in school." },
-  { emoji: "🛋️", title: "Afternoon Naps", text: "Falling asleep on the couch mid-movie, tangled in a blanket, perfectly at peace." },
-  { emoji: "🌆", title: "Sunset Walks", text: "Evening walks to nowhere in particular. Just us, the sky, and comfortable silence." },
-  { emoji: "🍕", title: "Late Night Snack Runs", text: "Midnight cravings leading to impulsive trips for pizza or ice cream in pajamas." },
-  { emoji: "🌙", title: "Pillow Talks", text: "Whispering dreams and fears at 2am, knowing every word is safe with each other." },
-  { emoji: "🎄", title: "Our First Festival Together", text: "Decorating our little space, making it ours, creating traditions that are just for us." },
-  { emoji: "✈️", title: "Traveling the World", text: "Passport stamps, airport selfies, getting lost in new cities together." },
-  { emoji: "🏠", title: "Building Our Home", text: "Choosing curtains, arguing over paint colors, making a space that feels like love." },
-  { emoji: "♾️", title: "Forever & Always", text: "Growing old together, still laughing at the same jokes, still choosing each other every single day." },
+  { emoji: "🌅", title: "morning chai or coffee together", text: "waking up slow making chai or coffee and sitting quietly before the day starts." },
+  { emoji: "🍳", title: "cooking disasters", text: "me trying to cook chicken while you insist on making something veg and both of us pretending we know what we’re doing." },
+  { emoji: "🎵", title: "our music moods", text: "first blasting loud punjabi old school hits then switching to romantic soft cuddly songs." },
+  { emoji: "🚗", title: "long drives & random dates", text: "late night drives no destination planning little surprise dates on the way." },
+  { emoji: "🍲", title: "cooking together properly", text: "actually cooking food together without burning it and feeling proud for no reason." },
+  { emoji: "✈️", title: "traveling together", text: "new cities airport chaos you convincing me to travel more and me acting tough but secretly loving it." },
+  { emoji: "🏋️", title: "hitting the gym together", text: "working out side by side motivating each other and competing for no reason." },
+  { emoji: "💸", title: "earning & spending", text: "earning money together and spending most of it on clothes food and random travel plans." },
+  { emoji: "🎬", title: "movie nights", text: "watching movies together fighting over what to pick and ending up rewatching something comfort." },
+  { emoji: "📺", title: "sitcom marathons", text: "late nights watching sitcoms laughing too loud at jokes we’ve already heard before." },
+  { emoji: "🏠", title: "our little space", text: "coming back home tired but happy knowing this is ours." },
+  { emoji: "♾️", title: "just us", text: "doing all of this again and again and never getting bored of it." },
 ];
 // ==================================
 

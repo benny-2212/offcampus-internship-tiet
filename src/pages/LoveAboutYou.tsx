@@ -6,27 +6,28 @@ const BACKGROUND_IMAGE_URL = "";
 const BANNER_IMAGE_URL = "";
 
 const REASONS = [
-  "Your smile lights up every room you walk into ✨",
-  "The way you laugh at my dumbest jokes 😂",
-  "How you always know exactly what to say 💬",
-  "Your kindness that makes the world softer 🌸",
-  "Those eyes that hold entire galaxies 🌌",
-  "How passionate you are about everything you do 🔥",
-  "The way you care so deeply about the people you love 💕",
-  "Your voice — my favorite sound in the world 🎵",
-  "How brave and strong you are, even on hard days 💪",
-  "The way you make even ordinary moments magical 🪄",
-  "Your sense of humor that always catches me off guard 😄",
-  "How you never give up on anything or anyone 🌟",
-  "The little texts you send that make my whole day 📱",
-  "Your intelligence that constantly amazes me 🧠",
-  "How beautiful you look without even trying 🌹",
-  "The warmth in your hugs — like coming home 🏠",
-  "How you make me want to be a better person 🦋",
-  "Your creativity and the way you see the world 🎨",
-  "Those quiet moments when words aren't needed 🤍",
-  "Simply everything about you. All of it. Forever. ♾️",
+  "I love your smile and the way your gums show just a little when you grin 😭💕",
+  "The way you baby talk and pretend you’re not doing it 🥹",
+  "How you take care of me without even making it obvious 🤍",
+  "The way you cuss and whine and somehow still look adorable when something goes wrong 😤😂",
+  "How you instantly start drooling the moment someone mentions cheesecake 🍰",
+  "That face you make when the coffee isn’t good ☕️😒",
+  "How you manage to make me say sorry even in the 1 out of 100 times it’s actually your fault 😌",
+  "How you’re genuinely wonderful at almost everything you do 🌟",
+  "The way you read people so quickly — your instincts are actually insane 🧠✨",
+  "How you criticize my dressing but still secretly fix it for me 👕😌",
+  "The way you whine about not looking good when you’re literally the most beautiful girl in the world 🌷",
+  "How much you love sleeping and how cute you look while doing absolutely nothing 😴🤍",
+  "When you passionately talk about the future and money and building something big 💼🔥",
+  "How insanely goal-driven and growth-driven you are 🚀",
+  "The way you’re so respectful and still appreciate the smallest things I do 🫶",
+  "How patient you are with me even when I’m being annoying 🥲",
+  "How you think you’re smarter than me… and honestly you probably are 🧠😌",
+  "The way you rant about other girls who are literally just… dramatic 😭",
+  "How we share gossip like it’s confidential government data 🤫😂",
+  "Just you. All of it. Every version of you. I love you. ♾️💕",
 ];
+
 // ==================================
 
 const LoveAboutYou = () => {
