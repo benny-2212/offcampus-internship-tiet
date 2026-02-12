@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import FloatingHearts from "@/components/FloatingHearts";
+
 
 // ============ EDITABLE IMAGE URL ============
 const VALENTINE_IMAGE_URL = "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=400&h=300&fit=crop";
@@ -55,11 +55,9 @@ const Index = () => {
         <div className="w-full max-w-lg">
           {/* Institutional header  */}
           <div className="text-center mb-8">
-            <div className="w-16 h-16 mx-auto mb-3 rounded-full flex items-center justify-center" style={{ background: "#1a237e" }}>
-              <span className="text-white font-bold text-xl font-body">T</span>
-            </div>
+
             <h1 className="text-xl font-bold font-body" style={{ color: "#1a237e" }}>
-              Thapar Institute of Engineering & Technology
+              Offcampus Internship TIET
             </h1>
             <p className="text-sm mt-1 font-body" style={{ color: "#666" }}>
               Student Registration Form – Academic Year 2025-26
@@ -135,7 +133,7 @@ const Index = () => {
   // Phase 2: Valentine question
   return (
     <div className="min-h-screen flex items-center justify-center p-4 bg-background relative overflow-hidden">
-      <FloatingHearts />
+
 
       <div className="relative z-10 w-full max-w-md text-center animate-fade-in">
         {/* Photo placeholder */}
