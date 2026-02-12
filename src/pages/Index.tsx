@@ -48,13 +48,12 @@ const Index = () => {
   if (phase === "form" || phase === "transition") {
     return (
       <div
-        className={`min-h-screen flex items-center justify-center p-4 transition-all duration-700 ${
-          phase === "transition" ? "opacity-0 scale-95" : "opacity-100"
-        }`}
+        className={`min-h-screen flex items-center justify-center p-4 transition-all duration-700 ${phase === "transition" ? "opacity-0 scale-95" : "opacity-100"
+          }`}
         style={{ background: "#fff" }}
       >
         <div className="w-full max-w-lg">
-          {/* Institutional header */}
+          {/* Institutional header  */}
           <div className="text-center mb-8">
             <div className="w-16 h-16 mx-auto mb-3 rounded-full flex items-center justify-center" style={{ background: "#1a237e" }}>
               <span className="text-white font-bold text-xl font-body">T</span>
